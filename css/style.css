@@ -1,0 +1,172 @@
+@font-face {
+    font-family: 'bebasregular';
+    src: url('../fonts/BEBAS___-webfont.eot');
+    src: url('../fonts/BEBAS___-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/BEBAS___-webfont.woff') format('woff'), url('../fonts/BEBAS___-webfont.ttf') format('truetype'), url('../fonts/BEBAS___-webfont.svg#bebasregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.logo {
+    font-family: 'bebasregular', Arial, sans-serif;
+    font-size: 34px;
+}
+
+nav {
+    font-family: 'bebasregular', Arial, sans-serif;
+    font-size: 15px;
+    color: #b9b9b9;
+    float: right;
+}
+
+ul li {
+    display: inline-block;
+    text-decoration: none;
+    list-style-type: none;
+    padding-right: 0px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+li a {
+    color: #b9b9b9;
+}
+
+.anothercolor {
+    color: #FF9273;
+}
+
+.main {
+    margin-top: 20px;
+}
+
+.firstcolor {
+    color: #FF3900;
+}
+
+.container {
+    max-width: 940px;
+}
+
+.size {
+    font-size: 12px;
+}
+
+.about {
+    font-family: 'bebasregular', Arial, sans-serif;
+    font-size: 20px;
+    background: #FF4100;
+    height: 60px;
+    margin: 20px 0;
+    padding: 18px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.nearphoto {
+    float: left;
+    margin-right: 20px;
+}
+
+.moving {
+    margin-bottom: 20px;
+}
+
+.bigletter {
+    font-family: 'bebasregular', Arial, sans-serif;
+    font-size: 30px;
+    float: left;
+    color: #FF3900;
+}
+
+.left {
+	float: left;
+	width: 50%;
+}
+
+.right {
+	text-align: left;
+}
+
+
+
+.image {
+	float: right;
+	margin-right: 14px; 
+}
+
+.space {
+	margin-bottom: 40px;
+}
+.some-space {
+	margin-bottom: 5px;
+}
+.footer {
+    background-color: #f45c42;
+    margin: 20px;
+    padding: 50px;
+}
+
+.aboutjetro2 {
+    font-family: 'bebasregular', Arial, sans-serif;
+    font-size: 20px;
+    margin-bottom: 9px;
+    color:#FFF;
+}
+.paragraph {
+    font-size: 12px;
+    color: #FFF;
+}
+
+.semi {
+    opacity: 0.5;
+    color: #FFF;
+}
+
+.img {
+    float: left;
+}
+
+.img2 {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.aboutall {
+    font-family: 'bebasregular', Arial, sans-serif;
+    font-size: 14px;
+    margin-bottom: 9px;
+    color:#FF3900;
+}
+
+.aboutblog {
+    font-family: 'bebasregular', Arial, sans-serif;
+    font-size: 14px;
+    margin-bottom: 9px;
+    margin-top: 30px;
+    color:#FF3900;
+}
+
+.sub {
+    font-size: 12px;
+    color: grey;
+}
+
+.info {
+     font-family: 'bebasregular', Arial, sans-serif;
+    font-size: 16px;
+    margin-bottom: 9px;
+    margin-top: 30px;
+    color:#FF3900;
+}
+
+.image2 {
+    float: left; 
+    padding-left: 280px;
+}
+
+.image3 {
+    position: absolute;
+    left: -70px;    
+}
